@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/wly/AndroidStudioProjects/instgram-demo-andriod-app/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/wly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/b76896cb872750bda13fdd4eda055fd5/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/wly/AndroidStudioProjects/udemyLecture/08.02/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/wly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/af0dd8509187e25f4209db76c9fc186c/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,132,203,274,344,414,482,550,614",
+                        "endColumns": "76,70,70,69,69,67,67,63,54",
+                        "endOffsets": "127,198,269,339,409,477,545,609,664"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/zappycode/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/zappycode/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/a474e9f442352211d159b58d9054580e/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,132,203,274,344,414,482,550,614",
+                        "endColumns": "76,70,70,69,69,67,67,63,54",
+                        "endOffsets": "127,198,269,339,409,477,545,609,664"
+                    }
+                }
+            ]
+        }
+    ]
+}

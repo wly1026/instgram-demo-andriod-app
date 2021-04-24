@@ -1,0 +1,10 @@
+#Fri Apr 23 22:17:56 PDT 2021
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/wly/AndroidStudioProjects/instgram-demo-andriod-app/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+base.1=/Users/wly/AndroidStudioProjects/instgram-demo-andriod-app/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/19
+base.0=/Users/wly/AndroidStudioProjects/instgram-demo-andriod-app/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
